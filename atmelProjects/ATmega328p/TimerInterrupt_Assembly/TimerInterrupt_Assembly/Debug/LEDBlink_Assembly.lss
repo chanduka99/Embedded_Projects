@@ -1,0 +1,8 @@
+
+AVRASM ver. 2.2.7  E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm Thu Mar 28 11:34:11 2024
+
+[builtin](2): Including file 'D:/SoftWare\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc'
+E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm(10): Including file 'D:/SoftWare\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\M328Pdef.inc'
+E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm(48): error: Duplicate label: 'loop1'
+E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm(50): error: Duplicate label: 'loop2'
+E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm(52): error: Duplicate label: 'loop3'

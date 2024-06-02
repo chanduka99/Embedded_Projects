@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/SoftWare\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>D:\SoftWare\AtmelStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/SoftWare\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:/SoftWare\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\M328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\Debug\TimerInterrupt_Assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TimerInterrupt_Assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TimerInterrupt_Assembly.map</FILE>
+  <FILE>TimerInterrupt_Assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm</FILE><LINE>15</LINE></start>
+  <delay1><FILE>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm</FILE><LINE>22</LINE></delay1>
+  <loop1><FILE>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm</FILE><LINE>24</LINE></loop1>
+  <loop2><FILE>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm</FILE><LINE>26</LINE></loop2>
+  <loop3><FILE>E:\academics\6th sem\Embedded Systems\atmelProjects\ATmega328p\TimerInterrupt_Assembly\TimerInterrupt_Assembly\main.asm</FILE><LINE>28</LINE></loop3>
+ </LABELS>
+</ASSEMBLER_INFO>
